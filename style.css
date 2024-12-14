@@ -35,7 +35,7 @@ nav{
     padding: 1vw;
     background-color: rgb(67, 74, 106);
     color: var(--color-white);
-    border-radius: 50px;
+    border-radius: 20px;
     border: 2px solid white;
     /* box-shadow: 5px 5px 5px 5px var(--color-white); */
 }
